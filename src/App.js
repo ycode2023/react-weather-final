@@ -19,7 +19,7 @@ export default function App() {
           </a>{" "}
           and is{" "}
           <a
-            href="https://github.com/ycode2023"
+            href="https://github.com/ycode2023/react-weather-final"
             target="_blank"
             rel="noopener noreferrer"
           >
@@ -27,7 +27,7 @@ export default function App() {
           </a>{" "}
           and{" "}
           <a
-            href="https://yk-reactweatherapp.netlify.app/"
+            href="https://app.netlify.com/teams/ycode2023/overview"
             target="_blank"
             rel="noopener noreferrer"
           >
