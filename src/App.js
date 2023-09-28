@@ -11,7 +11,7 @@ export default function App() {
         <footer>
           This project was coded by{" "}
           <a
-            href="https://yaldakesh.netlify.app/"
+            href="https://yaldakesh.vercel.app/"
             target="_blank"
             rel="noopener noreferrer"
           >
@@ -27,11 +27,11 @@ export default function App() {
           </a>{" "}
           and{" "}
           <a
-            href="https://app.netlify.com/teams/ycode2023/overview"
+            href="https://vercel.com/yalda-keshavarzis-projects"
             target="_blank"
             rel="noopener noreferrer"
           >
-            hosted on Netlify
+            hosted on Vercel
           </a>
         </footer>
       </div>
